@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/visual-studio-paint](https://github.com/prescientmoon/visual-studio-paint) 🚧
 # Visual studio paint
 
 This is a paint - like program made in 1 week for the [code community](https://discord.gg/RFPVysw) code jam
